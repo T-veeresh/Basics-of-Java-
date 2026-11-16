@@ -12,3 +12,22 @@ A handheld prototype (*7) shows oak code running on custom hardware
 
 1996 - JDK1.0
 First official released (january -1996) - java goes mainstream 
+
+DATA TYPES :
+1) premitive 
+Numerical data types - int,float,long,byte,double,short
+String data types - Char
+Boolean data types - Boolean
+2) non- premitive
+String,classes,Interface
+
+method explanation 
+Scanner method.   Example.           Return type
+nextInt().        25.                int
+nextLong().       7416711677.        
+nextFloat().      85.5f
+nextDouble().     2500.75.           double
+next().           veeru.             string 
+nextLine().       hello java.        string
+next().charAt(0). A.                 char
+nextBoolean().    true.              Boolean 

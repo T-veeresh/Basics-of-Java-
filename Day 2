@@ -5,3 +5,36 @@ ifelse.            while.          break
 elseif ladder.     double.         return 
 nested if
 switch 
+
+syntax
+if condition {
+// block of code 
+}
+
+ifelse{
+// block of code
+}
+else {
+// block of code
+}
+
+elseif ladder
+if condition1{
+// block of code 
+}
+else if condition1{
+// block of code 
+}
+else if condition2{
+// block of code 
+}
+else if condition3{
+// block of code 
+}
+else if condition4{
+// block of code 
+}
+else {
+// block of code
+}
+

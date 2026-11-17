@@ -38,4 +38,23 @@ else {
 // block of code
 }
 
+nested if
+if condition1{
+if condition2{
+\\ block of code statement 2
+}
+\\ block of code statement1 
+}
+switch (condition){
+case:1 
+\\ statement1;
+\\ break;
+case:2
+\\ statement2;
+\\ break;
+case:n 
+\\ statement n;
+\\ break;
+
+
 

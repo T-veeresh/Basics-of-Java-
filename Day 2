@@ -308,3 +308,34 @@ toString()	        Converts StringBuilder into String
 setLength(5)	       Changes the length
 getChars()	          Copies characters into a character array
 chars()                	Returns an IntStream of characters
+
+
+STATIC METHOD:
+
+class Main {
+
+    static void add(int a, int b) {
+        System.out.println("Sum: " + (a + b));
+    }
+
+    public static void main(String[] args) {
+
+        Main.add(10, 20);
+    }
+}
+
+NON STATIC:
+
+class Main {
+
+    void add(int a, int b) {
+        System.out.println("Sum: " + (a + b));
+    }
+
+    public static void main(String[] args) {
+
+        Main obj = new Main();
+
+        obj.add(10, 20);
+    }
+}

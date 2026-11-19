@@ -49,6 +49,7 @@ switch (condition){
 case:1 
 \\ statement1;
 \\ break;
+
 case:2
 \\ statement2;
 \\ break;
@@ -56,5 +57,32 @@ case:n
 \\ statement n;
 \\ break;
 
+---------------class--------------------
+types of class
+Normal / Concrete Class – A regular class with implementation.it is used to create the objects.
 
 
+
+Abstract Class – A class declared using the abstract keyword.
+
+
+
+Final Class – A class declared using the final keyword; it cannot be inherited.
+
+
+
+Nested Class – A class declared inside another class.
+
+
+
+Static Nested Class – A static class declared inside another class.
+
+
+
+Inner Class – A non-static class declared inside another class.
+annanomus class -without class name
+functions in java
+1.with parameters with return type
+2.with parameter without return type
+3.without parameter with return type
+4.wihtout parameter without return type
